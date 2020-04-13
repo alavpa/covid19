@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">covid19</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="confirmed_value">Confirmed %d</string>
+    <string name="recovered_value">Recovered %d</string>
+    <string name="deaths_value">Deaths %d</string>
+    <string name="search">Search…</string>
+</resources>
